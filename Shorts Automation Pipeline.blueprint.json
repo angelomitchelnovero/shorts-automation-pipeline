@@ -568,7 +568,7 @@
             },
             "filter": null,
             "mapper": {
-                "url": "https://texttospeech.googleapis.com/v1/text:synthesize?key=AIzaSyAx0-QM1xew_6cx2Xy96jwVGB0MRWomubE",
+                "url": "https://texttospeech.googleapis.com/v1/text:synthesize?key=YOUR_GEMINI_API_KEY_HERE",
                 "method": "post",
                 "headers": [
                     {
